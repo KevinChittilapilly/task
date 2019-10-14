@@ -8,3 +8,5 @@ Key Features:
 3. Verifies whether email address is valid or not, exits already or not, password matches correctly or not.
 4. Secure HTTP Authentication
 5. Appropriate flash messages are displayed
+
+Output Pictures are also uploaded for furthur references.
